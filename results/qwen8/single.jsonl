@@ -1,0 +1,300 @@
+{"id": "q000", "gold": "D", "step": "step1", "pred": "C", "response": "C. Generation of free radicals\n\nANSWER: C", "prompt_tokens": 185, "output_tokens": 12}
+{"id": "q001", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Ketotifen eye drops\n\nANSWER: B", "prompt_tokens": 259, "output_tokens": 13}
+{"id": "q002", "gold": "C", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B (Benign prostatic hyperplasia)", "prompt_tokens": 185, "output_tokens": 16}
+{"id": "q003", "gold": "D", "step": "step1", "pred": "D", "response": "D. A reduction in diastolic filling time\n\nANSWER: D", "prompt_tokens": 218, "output_tokens": 16}
+{"id": "q004", "gold": "C", "step": "step1", "pred": "D", "response": "D. Vaccinia virus\n\nANSWER: D", "prompt_tokens": 216, "output_tokens": 11}
+{"id": "q005", "gold": "D", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 292, "output_tokens": 7}
+{"id": "q006", "gold": "D", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 238, "output_tokens": 7}
+{"id": "q007", "gold": "D", "step": "step1", "pred": "A", "response": "A. Streptococcus pneumoniae\n\nANSWER: A", "prompt_tokens": 308, "output_tokens": 14}
+{"id": "q008", "gold": "D", "step": "step1", "pred": "D", "response": "D. Obstruction of the cystic duct\n\nANSWER: D", "prompt_tokens": 326, "output_tokens": 15}
+{"id": "q009", "gold": "A", "step": "step1", "pred": "D", "response": "The patient's symptoms suggest a **Broca's aphasia** variant, characterized by **fluent speech (Wernicke's aphasia is not the case here)**, **good comprehension**, and **difficulty with verbal repetition**. This points to **dysarthria or apraxia of speech**, but more specifically, the **inability to repeat** suggests **damage to the arcuate fasciculus**, which connects the **Broca's area (inferior frontal gyrus)** and the **Wernicke's area (superior temporal gyrus)**. \n\nThe **arcuate fasciculus** is critical for **verbal repetition** and **language processing**. Damage to this structure results in **conduction aphasia**, which is marked by **fluent speech, good comprehension, and difficulty repeating**. This matches the patient's presentation.\n\n**Option D** includes all the structures involved in this syndrome: **arcuate fasciculus**, **inferior frontal gyrus**, and **superior temporal gyrus**.\n\nANSWER: D", "prompt_tokens": 213, "output_tokens": 217}
+{"id": "q010", "gold": "B", "step": "step1", "pred": "C", "response": "C. Pulmonary artery\n\nANSWER: C", "prompt_tokens": 140, "output_tokens": 11}
+{"id": "q011", "gold": "A", "step": "step2&3", "pred": "D", "response": "D. Impaired kidney perfusion\n\nANSWER: D", "prompt_tokens": 311, "output_tokens": 13}
+{"id": "q012", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Tardive dyskinesia\n\nANSWER: A", "prompt_tokens": 199, "output_tokens": 15}
+{"id": "q013", "gold": "A", "step": "step1", "pred": "A", "response": "A. Acetaldehyde\n\nANSWER: A", "prompt_tokens": 172, "output_tokens": 11}
+{"id": "q014", "gold": "A", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 285, "output_tokens": 7}
+{"id": "q015", "gold": "B", "step": "step1", "pred": "B", "response": "D\n\nANSWER: B (B. Lytic lesions of the lumbar spine)", "prompt_tokens": 233, "output_tokens": 19}
+{"id": "q016", "gold": "A", "step": "step1", "pred": "D", "response": "D. Ras pathway transcription factors\n\nANSWER: D", "prompt_tokens": 194, "output_tokens": 12}
+{"id": "q017", "gold": "C", "step": "step2&3", "pred": "B", "response": "B. Traumatic bronchial rupture\n\nANSWER: B", "prompt_tokens": 321, "output_tokens": 14}
+{"id": "q018", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 324, "output_tokens": 7}
+{"id": "q019", "gold": "A", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 307, "output_tokens": 7}
+{"id": "q020", "gold": "A", "step": "step2&3", "pred": "C", "response": "C. Stop magnesium sulfate and give lorazepam  \nANSWER: C", "prompt_tokens": 140, "output_tokens": 16}
+{"id": "q021", "gold": "A", "step": "step1", "pred": "A", "response": "A. Myxedema coma\n\nANSWER: A", "prompt_tokens": 354, "output_tokens": 12}
+{"id": "q022", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 466, "output_tokens": 7}
+{"id": "q023", "gold": "C", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 293, "output_tokens": 7}
+{"id": "q024", "gold": "C", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 237, "output_tokens": 7}
+{"id": "q025", "gold": "C", "step": "step2&3", "pred": "C", "response": "D\n\nANSWER: C", "prompt_tokens": 385, "output_tokens": 7}
+{"id": "q026", "gold": "D", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 350, "output_tokens": 7}
+{"id": "q027", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 253, "output_tokens": 7}
+{"id": "q028", "gold": "D", "step": "step1", "pred": "D", "response": "D. Uterine artery\n\nANSWER: D", "prompt_tokens": 279, "output_tokens": 12}
+{"id": "q029", "gold": "B", "step": "step1", "pred": "B", "response": "B. Diarrhea\n\nANSWER: B", "prompt_tokens": 153, "output_tokens": 11}
+{"id": "q030", "gold": "B", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 354, "output_tokens": 7}
+{"id": "q031", "gold": "B", "step": "step1", "pred": "D", "response": "D. PR prolongation\n\nANSWER: D", "prompt_tokens": 205, "output_tokens": 11}
+{"id": "q032", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 233, "output_tokens": 7}
+{"id": "q033", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Reassuring the parents and use of an enuresis alarm\n\nANSWER: B", "prompt_tokens": 276, "output_tokens": 21}
+{"id": "q034", "gold": "D", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 183, "output_tokens": 7}
+{"id": "q035", "gold": "C", "step": "step1", "pred": "A", "response": "A. Ibuprofen\n\nANSWER: A", "prompt_tokens": 259, "output_tokens": 11}
+{"id": "q036", "gold": "A", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 448, "output_tokens": 7}
+{"id": "q037", "gold": "A", "step": "step1", "pred": "A", "response": "A. Inhibition of beta-tubulin polymerization\n\nANSWER: A", "prompt_tokens": 201, "output_tokens": 17}
+{"id": "q038", "gold": "D", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 304, "output_tokens": 7}
+{"id": "q039", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 243, "output_tokens": 7}
+{"id": "q040", "gold": "B", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 260, "output_tokens": 7}
+{"id": "q041", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Levofloxacin\n\nANSWER: A", "prompt_tokens": 346, "output_tokens": 12}
+{"id": "q042", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Chickenpox\n\nANSWER: C", "prompt_tokens": 301, "output_tokens": 11}
+{"id": "q043", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Non-Hodgkin lymphoma\n\nANSWER: B", "prompt_tokens": 282, "output_tokens": 15}
+{"id": "q044", "gold": "A", "step": "step1", "pred": "C", "response": "C. Presence of tachyzoites\n\nANSWER: C", "prompt_tokens": 274, "output_tokens": 15}
+{"id": "q045", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Viral reactivation in dorsal root ganglia\n\nANSWER: A", "prompt_tokens": 295, "output_tokens": 17}
+{"id": "q046", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 259, "output_tokens": 7}
+{"id": "q047", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Needle decompression\n\nANSWER: D", "prompt_tokens": 308, "output_tokens": 11}
+{"id": "q048", "gold": "D", "step": "step1", "pred": "C", "response": "C. Contralateral corticospinal tract involvement\n\nANSWER: C", "prompt_tokens": 236, "output_tokens": 17}
+{"id": "q049", "gold": "B", "step": "step1", "pred": "B", "response": "B. The mischarged tRNA with valine will be incorporated in the codons that specify for lysine\n\nANSWER: B", "prompt_tokens": 232, "output_tokens": 28}
+{"id": "q050", "gold": "C", "step": "step1", "pred": "C", "response": "C. Erosion of tooth enamel\n\nANSWER: C", "prompt_tokens": 219, "output_tokens": 14}
+{"id": "q051", "gold": "C", "step": "step1", "pred": "D", "response": "D. Chromosome 18 trisomy\n\nANSWER: D", "prompt_tokens": 183, "output_tokens": 16}
+{"id": "q052", "gold": "C", "step": "step1", "pred": "C", "response": "C. IFN-gamma\n\nANSWER: C", "prompt_tokens": 187, "output_tokens": 12}
+{"id": "q053", "gold": "D", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 216, "output_tokens": 7}
+{"id": "q054", "gold": "A", "step": "step2&3", "pred": "C", "response": "C. Urine ketones\n\nANSWER: C", "prompt_tokens": 322, "output_tokens": 12}
+{"id": "q055", "gold": "B", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 195, "output_tokens": 7}
+{"id": "q056", "gold": "B", "step": "step1", "pred": "A", "response": "A. Superior mesenteric artery\n\nANSWER: A", "prompt_tokens": 141, "output_tokens": 13}
+{"id": "q057", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 180, "output_tokens": 7}
+{"id": "q058", "gold": "A", "step": "step1", "pred": "A", "response": "A. Squamous cell carcinoma\n\nANSWER: A", "prompt_tokens": 193, "output_tokens": 12}
+{"id": "q059", "gold": "D", "step": "step1", "pred": "B", "response": "B. Low number of patients\n\nANSWER: B", "prompt_tokens": 289, "output_tokens": 12}
+{"id": "q060", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 260, "output_tokens": 7}
+{"id": "q061", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Endometrial sloughing and uterine contractions mediated by prostaglandin\n\nANSWER: A", "prompt_tokens": 261, "output_tokens": 26}
+{"id": "q062", "gold": "B", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 215, "output_tokens": 7}
+{"id": "q063", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Chikungunya\n\nANSWER: A", "prompt_tokens": 496, "output_tokens": 12}
+{"id": "q064", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Treating the underlying illness\n\nANSWER: D", "prompt_tokens": 407, "output_tokens": 13}
+{"id": "q065", "gold": "C", "step": "step1", "pred": "D", "response": "D. Production of PTH-related peptide by malignant cells\n\nANSWER: D", "prompt_tokens": 282, "output_tokens": 17}
+{"id": "q066", "gold": "A", "step": "step1", "pred": "A", "response": "A. Nucleotide excision repair\n\nANSWER: A", "prompt_tokens": 190, "output_tokens": 14}
+{"id": "q067", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Increase PEEP\n\nANSWER: C", "prompt_tokens": 399, "output_tokens": 11}
+{"id": "q068", "gold": "D", "step": "step1", "pred": "D", "response": "D. Azithromycin and ethambutol\n\nANSWER: D", "prompt_tokens": 295, "output_tokens": 17}
+{"id": "q069", "gold": "C", "step": "step1", "pred": "C", "response": "C. Microcytic red blood cells\n\nANSWER: C", "prompt_tokens": 155, "output_tokens": 14}
+{"id": "q070", "gold": "D", "step": "step1", "pred": "A", "response": "A. Tyrosine\n\nANSWER: A", "prompt_tokens": 215, "output_tokens": 11}
+{"id": "q071", "gold": "D", "step": "step1", "pred": "D", "response": "D. \u2193 \u2191 \u2193  \nANSWER: D", "prompt_tokens": 271, "output_tokens": 11}
+{"id": "q072", "gold": "D", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 270, "output_tokens": 7}
+{"id": "q073", "gold": "C", "step": "step2&3", "pred": "A", "response": "A. Presence of 14-3-3 protein\n\nANSWER: A", "prompt_tokens": 243, "output_tokens": 18}
+{"id": "q074", "gold": "B", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 379, "output_tokens": 7}
+{"id": "q075", "gold": "A", "step": "step1", "pred": "A", "response": "A. Adenosine\n\nANSWER: A", "prompt_tokens": 280, "output_tokens": 11}
+{"id": "q076", "gold": "A", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 344, "output_tokens": 7}
+{"id": "q077", "gold": "C", "step": "step2&3", "pred": "D", "response": "D. Order an ACTH stimulation test\n\nANSWER: D", "prompt_tokens": 285, "output_tokens": 14}
+{"id": "q078", "gold": "A", "step": "step2&3", "pred": "A", "response": "A\n\nANSWER: A", "prompt_tokens": 396, "output_tokens": 7}
+{"id": "q079", "gold": "C", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 208, "output_tokens": 7}
+{"id": "q080", "gold": "B", "step": "step1", "pred": "B", "response": "B. Oxybutynin\n\nANSWER: B", "prompt_tokens": 326, "output_tokens": 13}
+{"id": "q081", "gold": "A", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 214, "output_tokens": 7}
+{"id": "q082", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 216, "output_tokens": 7}
+{"id": "q083", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 342, "output_tokens": 7}
+{"id": "q084", "gold": "C", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 242, "output_tokens": 7}
+{"id": "q085", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. MRI of the hip\n\nANSWER: A", "prompt_tokens": 254, "output_tokens": 12}
+{"id": "q086", "gold": "A", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 218, "output_tokens": 7}
+{"id": "q087", "gold": "B", "step": "step1", "pred": "C", "response": "C. Large pulmonary embolus\n\nANSWER: C", "prompt_tokens": 193, "output_tokens": 13}
+{"id": "q088", "gold": "D", "step": "step2&3", "pred": "B", "response": "B. CT scan of the head and neck\n\nANSWER: B", "prompt_tokens": 385, "output_tokens": 15}
+{"id": "q089", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Comprehensive foot exam every year\n\nANSWER: B", "prompt_tokens": 145, "output_tokens": 13}
+{"id": "q090", "gold": "B", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 339, "output_tokens": 7}
+{"id": "q091", "gold": "A", "step": "step2&3", "pred": "C", "response": "C. Haloperidol and diphenhydramine\n\nANSWER: C", "prompt_tokens": 328, "output_tokens": 19}
+{"id": "q092", "gold": "D", "step": "step2&3", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 310, "output_tokens": 5}
+{"id": "q093", "gold": "B", "step": "step2&3", "pred": "D", "response": "D. Intravenous ampicillin-sulbactam therapy\n\nANSWER: D", "prompt_tokens": 409, "output_tokens": 19}
+{"id": "q094", "gold": "C", "step": "step1", "pred": "C", "response": "C. Renin\n\nANSWER: C", "prompt_tokens": 220, "output_tokens": 10}
+{"id": "q095", "gold": "B", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 240, "output_tokens": 7}
+{"id": "q096", "gold": "B", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 330, "output_tokens": 7}
+{"id": "q097", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Reassurance and counseling on positioning\n\nANSWER: C", "prompt_tokens": 393, "output_tokens": 15}
+{"id": "q098", "gold": "D", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 208, "output_tokens": 7}
+{"id": "q099", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 353, "output_tokens": 7}
+{"id": "q100", "gold": "A", "step": "step2&3", "pred": "D", "response": "D. Transfer the newborn for immediate surgery\n\nANSWER: D", "prompt_tokens": 243, "output_tokens": 14}
+{"id": "q101", "gold": "B", "step": "step1", "pred": "C", "response": "C. Mast cell degranulation\n\nANSWER: C", "prompt_tokens": 164, "output_tokens": 13}
+{"id": "q102", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Celiac disease\n\nANSWER: B", "prompt_tokens": 233, "output_tokens": 11}
+{"id": "q103", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 320, "output_tokens": 7}
+{"id": "q104", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Surgical gastropexy\n\nANSWER: D", "prompt_tokens": 227, "output_tokens": 13}
+{"id": "q105", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Intravenous thiamine\n\nANSWER: A", "prompt_tokens": 311, "output_tokens": 13}
+{"id": "q106", "gold": "C", "step": "step1", "pred": "C", "response": "C. Trichomonas vaginalis\n\nANSWER: C", "prompt_tokens": 285, "output_tokens": 14}
+{"id": "q107", "gold": "C", "step": "step1", "pred": "D", "response": "D. Inhaled albuterol and oxygen  \nANSWER: D", "prompt_tokens": 242, "output_tokens": 16}
+{"id": "q108", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 226, "output_tokens": 7}
+{"id": "q109", "gold": "A", "step": "step1", "pred": "A", "response": "A. HER2\n\nANSWER: A", "prompt_tokens": 169, "output_tokens": 10}
+{"id": "q110", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 284, "output_tokens": 7}
+{"id": "q111", "gold": "D", "step": "step2&3", "pred": "C", "response": "C. Placement of an epinephrine gauze in the left nostril\n\nANSWER: C", "prompt_tokens": 262, "output_tokens": 23}
+{"id": "q112", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Compression ultrasonography\n\nANSWER: B", "prompt_tokens": 315, "output_tokens": 12}
+{"id": "q113", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 253, "output_tokens": 7}
+{"id": "q114", "gold": "B", "step": "step1", "pred": "B", "response": "B. Recurrent laryngeal nerve injury\n\nANSWER: B", "prompt_tokens": 181, "output_tokens": 16}
+{"id": "q115", "gold": "D", "step": "step1", "pred": "D", "response": "D. Phosphodiesterase inhibitor\n\nANSWER: D", "prompt_tokens": 201, "output_tokens": 14}
+{"id": "q116", "gold": "B", "step": "step2&3", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 337, "output_tokens": 5}
+{"id": "q117", "gold": "A", "step": "step2&3", "pred": "D", "response": "D. Trauma to testis\n\nANSWER: D", "prompt_tokens": 302, "output_tokens": 13}
+{"id": "q118", "gold": "B", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 305, "output_tokens": 7}
+{"id": "q119", "gold": "A", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 259, "output_tokens": 7}
+{"id": "q120", "gold": "A", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 323, "output_tokens": 7}
+{"id": "q121", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 247, "output_tokens": 7}
+{"id": "q122", "gold": "C", "step": "step1", "pred": "C", "response": "C. Spherocytes\n\nANSWER: C", "prompt_tokens": 237, "output_tokens": 11}
+{"id": "q123", "gold": "A", "step": "step1", "pred": "A", "response": "A. Increase in false negative test results\n\nANSWER: A", "prompt_tokens": 151, "output_tokens": 14}
+{"id": "q124", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 208, "output_tokens": 7}
+{"id": "q125", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 226, "output_tokens": 7}
+{"id": "q126", "gold": "A", "step": "step1", "pred": "A", "response": "A. Anti-Sj\u00f6gren's syndrome type B (SS-B) antibody\n\nANSWER: A", "prompt_tokens": 173, "output_tokens": 22}
+{"id": "q127", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 240, "output_tokens": 7}
+{"id": "q128", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 317, "output_tokens": 7}
+{"id": "q129", "gold": "D", "step": "step2&3", "pred": "C", "response": "C. Oral ulcers\n\nANSWER: C", "prompt_tokens": 253, "output_tokens": 11}
+{"id": "q130", "gold": "B", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 239, "output_tokens": 7}
+{"id": "q131", "gold": "D", "step": "step1", "pred": "B", "response": "B. Ability to cleave \u03b2-lactam rings\n\nANSWER: B", "prompt_tokens": 244, "output_tokens": 17}
+{"id": "q132", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Tympanostomy tube insertion\n\nANSWER: B", "prompt_tokens": 283, "output_tokens": 15}
+{"id": "q133", "gold": "B", "step": "step1", "pred": "D", "response": "D. Succinate\n\nANSWER: D", "prompt_tokens": 389, "output_tokens": 10}
+{"id": "q134", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 395, "output_tokens": 7}
+{"id": "q135", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 425, "output_tokens": 7}
+{"id": "q136", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Ultrasonography of the neck\n\nANSWER: A", "prompt_tokens": 387, "output_tokens": 14}
+{"id": "q137", "gold": "A", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 310, "output_tokens": 7}
+{"id": "q138", "gold": "B", "step": "step1", "pred": "B", "response": "B. S3 gallop\n\nANSWER: B", "prompt_tokens": 258, "output_tokens": 12}
+{"id": "q139", "gold": "A", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 236, "output_tokens": 7}
+{"id": "q140", "gold": "D", "step": "step1", "pred": "D", "response": "D. Excess collagen deposition in the extracellular matrix of the lung\n\nANSWER: D", "prompt_tokens": 242, "output_tokens": 20}
+{"id": "q141", "gold": "A", "step": "step1", "pred": "A", "response": "A chi-square test was performed to assess the association between educational status and the risk of MI. The odds ratio (OR) is 2.1, with a 95% confidence interval (CI) of 0.9\u20139.7. Since the confidence interval includes 1, the association is **not statistically significant**. Additionally, the odds ratio is not sufficiently elevated to conclude that low education is a risk factor. \n\nANSWER: A", "prompt_tokens": 303, "output_tokens": 94}
+{"id": "q142", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Neural tube defect\n\nANSWER: B", "prompt_tokens": 232, "output_tokens": 11}
+{"id": "q143", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 357, "output_tokens": 7}
+{"id": "q144", "gold": "D", "step": "step2&3", "pred": "C", "response": "C. Pulmonary embolism\n\nANSWER: C", "prompt_tokens": 344, "output_tokens": 13}
+{"id": "q145", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Continue antitubercular therapy and antiretroviral therapy without any change\n\nANSWER: D", "prompt_tokens": 505, "output_tokens": 25}
+{"id": "q146", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Endoscopic retrograde cholangiopancreatography (ERCP)  \nANSWER: A", "prompt_tokens": 514, "output_tokens": 23}
+{"id": "q147", "gold": "A", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 251, "output_tokens": 7}
+{"id": "q148", "gold": "B", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 369, "output_tokens": 7}
+{"id": "q149", "gold": "A", "step": "step2&3", "pred": "D", "response": "D. Application of a lower leg cast\n\nANSWER: D", "prompt_tokens": 250, "output_tokens": 14}
+{"id": "q150", "gold": "D", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 264, "output_tokens": 7}
+{"id": "q151", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Tracheobronchial rupture\n\nANSWER: D", "prompt_tokens": 257, "output_tokens": 15}
+{"id": "q152", "gold": "A", "step": "step1", "pred": "A", "response": "Dihydroorotate dehydrogenase is an enzyme involved in pyrimidine synthesis. Interferon-\u03b1 is used in the treatment of hepatitis C, and the addition of ribavirin (a nucleoside analog) enhances the efficacy of interferon therapy. Ribavirin inhibits inosine monophosphate dehydrogenase, which is a key enzyme in the de novo synthesis of purines. This inhibition reduces the production of nucleotides, thereby impairing viral replication.\n\nANSWER: A", "prompt_tokens": 186, "output_tokens": 108}
+{"id": "q153", "gold": "D", "step": "step1", "pred": "D", "response": "D. Conjugation with a protein carrier provides effective protection to infants\n\nANSWER: D", "prompt_tokens": 229, "output_tokens": 20}
+{"id": "q154", "gold": "D", "step": "step1", "pred": "D", "response": "D. Influx of calcium\n\nANSWER: D", "prompt_tokens": 168, "output_tokens": 12}
+{"id": "q155", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 358, "output_tokens": 7}
+{"id": "q156", "gold": "C", "step": "step2&3", "pred": "D", "response": "D. Bacterial infection\n\nANSWER: D", "prompt_tokens": 280, "output_tokens": 11}
+{"id": "q157", "gold": "C", "step": "step2&3", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 294, "output_tokens": 5}
+{"id": "q158", "gold": "C", "step": "step1", "pred": "C", "response": "ANSWER: C", "prompt_tokens": 468, "output_tokens": 5}
+{"id": "q159", "gold": "D", "step": "step1", "pred": "D", "response": "D. Inhibition of lipase\n\nANSWER: D", "prompt_tokens": 193, "output_tokens": 13}
+{"id": "q160", "gold": "D", "step": "step1", "pred": "D", "response": "D. Runs posteriorly from the medial femoral condyle\n\nANSWER: D", "prompt_tokens": 234, "output_tokens": 18}
+{"id": "q161", "gold": "A", "step": "step1", "pred": "D", "response": "D. Quaternary amine-based solution\n\nANSWER: D", "prompt_tokens": 191, "output_tokens": 15}
+{"id": "q162", "gold": "A", "step": "step1", "pred": "A", "response": "A. Alveolar hypoventilation\n\nANSWER: A", "prompt_tokens": 202, "output_tokens": 14}
+{"id": "q163", "gold": "D", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 222, "output_tokens": 7}
+{"id": "q164", "gold": "B", "step": "step1", "pred": "C", "response": "ANSWER: C", "prompt_tokens": 170, "output_tokens": 5}
+{"id": "q165", "gold": "B", "step": "step1", "pred": "B", "response": "B. Tumor stage\n\nANSWER: B", "prompt_tokens": 202, "output_tokens": 11}
+{"id": "q166", "gold": "B", "step": "step1", "pred": "D", "response": "D. Defect in BTK gene\n\nANSWER: D", "prompt_tokens": 187, "output_tokens": 14}
+{"id": "q167", "gold": "D", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 216, "output_tokens": 7}
+{"id": "q168", "gold": "C", "step": "step1", "pred": "D", "response": "D. Hemophilia A\n\nANSWER: D", "prompt_tokens": 222, "output_tokens": 11}
+{"id": "q169", "gold": "A", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 225, "output_tokens": 7}
+{"id": "q170", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 292, "output_tokens": 7}
+{"id": "q171", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 224, "output_tokens": 7}
+{"id": "q172", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Bed rest and activity limitation\n\nANSWER: A", "prompt_tokens": 237, "output_tokens": 13}
+{"id": "q173", "gold": "D", "step": "step1", "pred": "D", "response": "D. Peroxisome proliferator-activated receptor gamma\n\nANSWER: D", "prompt_tokens": 233, "output_tokens": 17}
+{"id": "q174", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Continue normal breast feeding\n\nANSWER: D", "prompt_tokens": 171, "output_tokens": 12}
+{"id": "q175", "gold": "B", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 358, "output_tokens": 7}
+{"id": "q176", "gold": "C", "step": "step2&3", "pred": "A", "response": "A. Fluconazole\n\nANSWER: A", "prompt_tokens": 241, "output_tokens": 11}
+{"id": "q177", "gold": "A", "step": "step1", "pred": "A", "response": "A. Cells staining positive for CD15 and CD30\n\nANSWER: A", "prompt_tokens": 267, "output_tokens": 19}
+{"id": "q178", "gold": "A", "step": "step2&3", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 324, "output_tokens": 5}
+{"id": "q179", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Reducing daily insulin dose\n\nANSWER: D", "prompt_tokens": 178, "output_tokens": 13}
+{"id": "q180", "gold": "A", "step": "step1", "pred": "A", "response": "A. Chlorine dioxide\n\nANSWER: A", "prompt_tokens": 155, "output_tokens": 11}
+{"id": "q181", "gold": "B", "step": "step1", "pred": "B", "response": "B. Spinal metastasis\n\nANSWER: B", "prompt_tokens": 215, "output_tokens": 12}
+{"id": "q182", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 365, "output_tokens": 7}
+{"id": "q183", "gold": "B", "step": "step2&3", "pred": "B", "response": "ANSWER: B", "prompt_tokens": 262, "output_tokens": 5}
+{"id": "q184", "gold": "D", "step": "step1", "pred": "B", "response": "ANSWER: B", "prompt_tokens": 473, "output_tokens": 5}
+{"id": "q185", "gold": "C", "step": "step2&3", "pred": "D", "response": "D. Transfer the patient only if the medical benefits of transfer outweigh the risks\n\nANSWER: D", "prompt_tokens": 286, "output_tokens": 21}
+{"id": "q186", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 143, "output_tokens": 7}
+{"id": "q187", "gold": "A", "step": "step1", "pred": "A", "response": "The injury is at the level of L3, which is in the lower back, near the lumbar region. The inferior vena cava (IVC) passes through the abdomen and is located at the level of the L3-L4 vertebrae. A penetrating injury at this level could damage the IVC, leading to hypovolemic shock due to significant blood loss.\n\nThe internal iliac vein is located in the pelvis, below the L3 level. The renal artery is located at the level of the L1-L2 vertebrae. The portal vein is in the abdomen, but its location is more toward the upper abdomen, not at the L3 level.\n\nANSWER: A", "prompt_tokens": 131, "output_tokens": 144}
+{"id": "q188", "gold": "B", "step": "step1", "pred": "B", "response": "The number needed to treat (NNT) is calculated as the reciprocal of the absolute risk reduction (ARR). \n\n- Number of participants cured in the study treatment group (Group 1): 190  \n- Number of participants cured in the control group (Group 2): 165  \n- Total participants in each group: 250  \n\nAbsolute risk reduction (ARR) = (165/250) - (190/250) = (165 - 190)/250 = -25/250 = 0.1\n\nNNT = 1 / ARR = 1 / (25/250) = 250/25\n\nANSWER: B", "prompt_tokens": 225, "output_tokens": 161}
+{"id": "q189", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Paroxetine\n\nANSWER: C", "prompt_tokens": 257, "output_tokens": 10}
+{"id": "q190", "gold": "C", "step": "step2&3", "pred": "D", "response": "D. He may work up to 20 more hours\n\nANSWER: D", "prompt_tokens": 232, "output_tokens": 18}
+{"id": "q191", "gold": "D", "step": "step1", "pred": "D", "response": "D. A Western blot will show increased HIF-1\u03b1 compared to a normoxic control.\n\nANSWER: D", "prompt_tokens": 361, "output_tokens": 25}
+{"id": "q192", "gold": "C", "step": "step1", "pred": "C", "response": "C. Type II pneumocytes\n\nANSWER: C", "prompt_tokens": 258, "output_tokens": 12}
+{"id": "q193", "gold": "B", "step": "step1", "pred": "B", "response": "B. Beta-1 adrenergic receptor\n\nANSWER: B", "prompt_tokens": 370, "output_tokens": 16}
+{"id": "q194", "gold": "A", "step": "step2&3", "pred": "B", "response": "B. Flow cytometry for CD55/CD59\n\nANSWER: B", "prompt_tokens": 270, "output_tokens": 19}
+{"id": "q195", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 161, "output_tokens": 7}
+{"id": "q196", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 215, "output_tokens": 7}
+{"id": "q197", "gold": "A", "step": "step1", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 248, "output_tokens": 5}
+{"id": "q198", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Lumbar puncture\n\nANSWER: B", "prompt_tokens": 275, "output_tokens": 12}
+{"id": "q199", "gold": "B", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 367, "output_tokens": 7}
+{"id": "q200", "gold": "D", "step": "step1", "pred": "D", "response": "D. Tartrate-resistant acid phosphatase\n\nANSWER: D", "prompt_tokens": 348, "output_tokens": 16}
+{"id": "q201", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Adenomatous polyp\n\nANSWER: B", "prompt_tokens": 183, "output_tokens": 14}
+{"id": "q202", "gold": "A", "step": "step1", "pred": "A", "response": "A. Papillary carcinoma\n\nANSWER: A", "prompt_tokens": 165, "output_tokens": 11}
+{"id": "q203", "gold": "D", "step": "step1", "pred": "D", "response": "D. Decreased pulmonary capillary wedge pressure\n\nANSWER: D", "prompt_tokens": 232, "output_tokens": 15}
+{"id": "q204", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Exploratory laparotomy\n\nANSWER: D", "prompt_tokens": 286, "output_tokens": 14}
+{"id": "q205", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 441, "output_tokens": 7}
+{"id": "q206", "gold": "A", "step": "step1", "pred": "A", "response": "ANSWER: A", "prompt_tokens": 442, "output_tokens": 5}
+{"id": "q207", "gold": "A", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 415, "output_tokens": 7}
+{"id": "q208", "gold": "B", "step": "step1", "pred": "B", "response": "B. 32 breaths per minute\n\nANSWER: B", "prompt_tokens": 250, "output_tokens": 15}
+{"id": "q209", "gold": "D", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 373, "output_tokens": 7}
+{"id": "q210", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Alendronate\n\nANSWER: A", "prompt_tokens": 264, "output_tokens": 12}
+{"id": "q211", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Mesna\n\nANSWER: B", "prompt_tokens": 315, "output_tokens": 10}
+{"id": "q212", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Myocardial perfusion scan under pharmacological stress\n\nANSWER: A", "prompt_tokens": 345, "output_tokens": 18}
+{"id": "q213", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Bladder catheterization\n\nANSWER: B", "prompt_tokens": 418, "output_tokens": 13}
+{"id": "q214", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Straight leg raise\n\nANSWER: B", "prompt_tokens": 244, "output_tokens": 11}
+{"id": "q215", "gold": "A", "step": "step2&3", "pred": "A", "response": "C\n\nANSWER: A", "prompt_tokens": 407, "output_tokens": 7}
+{"id": "q216", "gold": "B", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 320, "output_tokens": 7}
+{"id": "q217", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 225, "output_tokens": 7}
+{"id": "q218", "gold": "A", "step": "step1", "pred": "C", "response": "C. Segmental demyelination of peripheral axons\n\nANSWER: C", "prompt_tokens": 237, "output_tokens": 18}
+{"id": "q219", "gold": "B", "step": "step2&3", "pred": "C", "response": "C. CT scan\n\nANSWER: C", "prompt_tokens": 283, "output_tokens": 10}
+{"id": "q220", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 198, "output_tokens": 7}
+{"id": "q221", "gold": "A", "step": "step1", "pred": "B", "response": "B. Increased platelet count\n\nANSWER: B", "prompt_tokens": 164, "output_tokens": 12}
+{"id": "q222", "gold": "A", "step": "step1", "pred": "A", "response": "A. Increase in capillary pressure\n\nANSWER: A", "prompt_tokens": 170, "output_tokens": 13}
+{"id": "q223", "gold": "C", "step": "step2&3", "pred": "D", "response": "D. Wernicke's encephalopathy\n\nANSWER: D", "prompt_tokens": 306, "output_tokens": 17}
+{"id": "q224", "gold": "B", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 168, "output_tokens": 7}
+{"id": "q225", "gold": "A", "step": "step2&3", "pred": "D", "response": "D. Rhinorrhea, lacrimination, and ptosis\n\nANSWER: D", "prompt_tokens": 287, "output_tokens": 20}
+{"id": "q226", "gold": "B", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 536, "output_tokens": 7}
+{"id": "q227", "gold": "A", "step": "step1", "pred": "A", "response": "A. Periductal concentric scarring and fibrosis\n\nANSWER: A", "prompt_tokens": 311, "output_tokens": 19}
+{"id": "q228", "gold": "B", "step": "step2&3", "pred": "B", "response": "ANSWER: B", "prompt_tokens": 202, "output_tokens": 5}
+{"id": "q229", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 256, "output_tokens": 7}
+{"id": "q230", "gold": "A", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 345, "output_tokens": 7}
+{"id": "q231", "gold": "B", "step": "step1", "pred": "D", "response": "D. Reduction in airway surface tension\n\nANSWER: D", "prompt_tokens": 283, "output_tokens": 14}
+{"id": "q232", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 287, "output_tokens": 7}
+{"id": "q233", "gold": "C", "step": "step1", "pred": "C", "response": "C. Inhibiting bacterial adherance and colonization of mucous membranes\n\nANSWER: C", "prompt_tokens": 122, "output_tokens": 20}
+{"id": "q234", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 370, "output_tokens": 7}
+{"id": "q235", "gold": "B", "step": "step1", "pred": "A", "response": "A. Gram-negative rods in school of fish formation on Gram stain\n\nANSWER: A", "prompt_tokens": 314, "output_tokens": 19}
+{"id": "q236", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Oral morphine therapy\n\nANSWER: A", "prompt_tokens": 325, "output_tokens": 12}
+{"id": "q237", "gold": "D", "step": "step1", "pred": "B", "response": "B. Erosion of tortuous submucosal arteriole\n\nANSWER: B", "prompt_tokens": 230, "output_tokens": 21}
+{"id": "q238", "gold": "A", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B (B)", "prompt_tokens": 350, "output_tokens": 10}
+{"id": "q239", "gold": "B", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 179, "output_tokens": 7}
+{"id": "q240", "gold": "B", "step": "step1", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 193, "output_tokens": 7}
+{"id": "q241", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Pramipexole\n\nANSWER: B", "prompt_tokens": 252, "output_tokens": 13}
+{"id": "q242", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Capillary leakage\n\nANSWER: B", "prompt_tokens": 341, "output_tokens": 11}
+{"id": "q243", "gold": "D", "step": "step1", "pred": "D", "response": "D. Papillary carcinoma\n\nANSWER: D", "prompt_tokens": 189, "output_tokens": 11}
+{"id": "q244", "gold": "B", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 306, "output_tokens": 7}
+{"id": "q245", "gold": "A", "step": "step1", "pred": "A", "response": "A. Ketamine\n\nANSWER: A", "prompt_tokens": 168, "output_tokens": 10}
+{"id": "q246", "gold": "D", "step": "step1", "pred": "D", "response": "D. Zenker's diverticulum\n\nANSWER: D", "prompt_tokens": 151, "output_tokens": 14}
+{"id": "q247", "gold": "C", "step": "step1", "pred": "D", "response": "D. Destruction of anterior horn cells\n\nANSWER: D", "prompt_tokens": 187, "output_tokens": 13}
+{"id": "q248", "gold": "A", "step": "step2&3", "pred": "C", "response": "C. Technetium bone scan\n\nANSWER: C", "prompt_tokens": 254, "output_tokens": 13}
+{"id": "q249", "gold": "B", "step": "step2&3", "pred": "B", "response": "B\n\nANSWER: B", "prompt_tokens": 215, "output_tokens": 7}
+{"id": "q250", "gold": "C", "step": "step1", "pred": "A", "response": "A. Aortic stenosis\n\nANSWER: A", "prompt_tokens": 259, "output_tokens": 13}
+{"id": "q251", "gold": "C", "step": "step1", "pred": "C", "response": "C. Reassure the mother\n\nANSWER: C", "prompt_tokens": 205, "output_tokens": 13}
+{"id": "q252", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Dual-energy x-ray bone absorptiometry\n\nANSWER: B", "prompt_tokens": 323, "output_tokens": 17}
+{"id": "q253", "gold": "D", "step": "step1", "pred": "A", "response": "The patient is a 32-year-old woman with a history of a missed abortion, as indicated by the absence of fetal heart sounds and the presence of a grape-like mass (which suggests hydatidiform mole). The absence of fetal parts on ultrasound confirms this diagnosis. A hydatidiform mole is a type of gestational trophoblastic disease, and it can be either complete or partial.\n\nIn a **complete hydatidiform mole**, the genotype is **69XXY** (triploidy), which results from the fertilization of an empty egg by a single sperm, followed by duplication of the paternal chromosomes. This leads to an embryo with 69 chromosomes (46XX + 23X from the egg and 23XY from the sperm, but the egg contributes no genetic material, so it's 46XX + 23X + 23Y = 69XXY).\n\nIn a **partial hydatidiform mole**, the genotype is **46XX** (diploid), resulting from the fertilization of a normal egg by two sperm (diploidization), leading to an extra set of paternal chromosomes.\n\nIn this case, the presence of a grape-like mass and absence of fetal parts is highly suggestive of a **complete hydatidiform mole**, which has the **69XXY** genotype.\n\nANSWER: A", "prompt_tokens": 234, "output_tokens": 287}
+{"id": "q254", "gold": "A", "step": "step1", "pred": "A", "response": "A\n\nANSWER: A", "prompt_tokens": 164, "output_tokens": 7}
+{"id": "q255", "gold": "A", "step": "step1", "pred": "B", "response": "B. Fantasy\n\nANSWER: B", "prompt_tokens": 210, "output_tokens": 9}
+{"id": "q256", "gold": "C", "step": "step1", "pred": "C", "response": "C. Increased capillary hydrostatic pressure\n\nANSWER: C", "prompt_tokens": 208, "output_tokens": 14}
+{"id": "q257", "gold": "B", "step": "step1", "pred": "B", "response": "ANSWER: B", "prompt_tokens": 323, "output_tokens": 5}
+{"id": "q258", "gold": "A", "step": "step1", "pred": "C", "response": "C. Increased chest wall compliance\n\nANSWER: C", "prompt_tokens": 199, "output_tokens": 12}
+{"id": "q259", "gold": "C", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 211, "output_tokens": 7}
+{"id": "q260", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 327, "output_tokens": 7}
+{"id": "q261", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 355, "output_tokens": 7}
+{"id": "q262", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. NSAIDs\n\nANSWER: C", "prompt_tokens": 360, "output_tokens": 10}
+{"id": "q263", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 197, "output_tokens": 7}
+{"id": "q264", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. Propranolol\n\nANSWER: A", "prompt_tokens": 252, "output_tokens": 12}
+{"id": "q265", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine\n\nANSWER: B", "prompt_tokens": 209, "output_tokens": 28}
+{"id": "q266", "gold": "A", "step": "step1", "pred": "D", "response": "D. Gram-positive cocci in clusters\n\nANSWER: D", "prompt_tokens": 217, "output_tokens": 13}
+{"id": "q267", "gold": "D", "step": "step1", "pred": "C", "response": "C. Activation of eukaryotic initiation factor 2\n\nANSWER: C", "prompt_tokens": 236, "output_tokens": 18}
+{"id": "q268", "gold": "D", "step": "step1", "pred": "A", "response": "A. Degranulation of presensitized mast cells\n\nANSWER: A", "prompt_tokens": 258, "output_tokens": 17}
+{"id": "q269", "gold": "B", "step": "step1", "pred": "D", "response": "D. Thrombocytopenic purpura\n\nANSWER: D", "prompt_tokens": 289, "output_tokens": 18}
+{"id": "q270", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Reassurance and follow-up\n\nANSWER: B", "prompt_tokens": 291, "output_tokens": 14}
+{"id": "q271", "gold": "A", "step": "step1", "pred": "A", "response": "A\n\nANSWER: A", "prompt_tokens": 462, "output_tokens": 7}
+{"id": "q272", "gold": "D", "step": "step1", "pred": "D", "response": "D. Granulocyte-macrophage colony-stimulating factor\n\nANSWER: D", "prompt_tokens": 241, "output_tokens": 20}
+{"id": "q273", "gold": "B", "step": "step1", "pred": "D", "response": "D. Required for methylmalonyl-CoA processing\n\nANSWER: D", "prompt_tokens": 237, "output_tokens": 17}
+{"id": "q274", "gold": "C", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 271, "output_tokens": 7}
+{"id": "q275", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Eosinophilic esophagitis\n\nANSWER: C", "prompt_tokens": 236, "output_tokens": 17}
+{"id": "q276", "gold": "A", "step": "step1", "pred": "A", "response": "A. Increased creatine kinase concentration\n\nANSWER: A", "prompt_tokens": 190, "output_tokens": 13}
+{"id": "q277", "gold": "A", "step": "step1", "pred": "A", "response": "A. Hyperplasia of juxtaglomerular cells\n\nANSWER: A", "prompt_tokens": 276, "output_tokens": 19}
+{"id": "q278", "gold": "C", "step": "step1", "pred": "C", "response": "C. Formation of noncaseating granulomas\n\nANSWER: C", "prompt_tokens": 302, "output_tokens": 16}
+{"id": "q279", "gold": "B", "step": "step1", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 247, "output_tokens": 7}
+{"id": "q280", "gold": "A", "step": "step2&3", "pred": "C", "response": "C. Thumb spica cast\n\nANSWER: C", "prompt_tokens": 269, "output_tokens": 12}
+{"id": "q281", "gold": "C", "step": "step2&3", "pred": "C", "response": "C. Clomiphene therapy\n\nANSWER: C", "prompt_tokens": 301, "output_tokens": 13}
+{"id": "q282", "gold": "C", "step": "step1", "pred": "D", "response": "D. Saddle pulmonary embolus\n\nANSWER: D", "prompt_tokens": 215, "output_tokens": 14}
+{"id": "q283", "gold": "A", "step": "step2&3", "pred": "A", "response": "A\n\nANSWER: A", "prompt_tokens": 355, "output_tokens": 7}
+{"id": "q284", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 288, "output_tokens": 7}
+{"id": "q285", "gold": "A", "step": "step1", "pred": "D", "response": "D. 50%  \nANSWER: D", "prompt_tokens": 164, "output_tokens": 12}
+{"id": "q286", "gold": "A", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 268, "output_tokens": 7}
+{"id": "q287", "gold": "D", "step": "step1", "pred": "A", "response": "A. Muddy brown granular casts\n\nANSWER: A", "prompt_tokens": 183, "output_tokens": 14}
+{"id": "q288", "gold": "B", "step": "step2&3", "pred": "A", "response": "A. Chest radiograph\n\nANSWER: A", "prompt_tokens": 255, "output_tokens": 11}
+{"id": "q289", "gold": "A", "step": "step1", "pred": "C", "response": "C. Lysine\n\nANSWER: C", "prompt_tokens": 186, "output_tokens": 11}
+{"id": "q290", "gold": "A", "step": "step1", "pred": "A", "response": "A. Anion gap metabolic acidosis\n\nANSWER: A", "prompt_tokens": 181, "output_tokens": 14}
+{"id": "q291", "gold": "D", "step": "step2&3", "pred": "D", "response": "D. Phenoxybenzamine\n\nANSWER: D", "prompt_tokens": 144, "output_tokens": 14}
+{"id": "q292", "gold": "A", "step": "step2&3", "pred": "A", "response": "A. A type 1 error occurs when the null hypothesis is true but is rejected in error.  \n\nANSWER: A", "prompt_tokens": 740, "output_tokens": 26}
+{"id": "q293", "gold": "B", "step": "step2&3", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 405, "output_tokens": 7}
+{"id": "q294", "gold": "B", "step": "step1", "pred": "B", "response": "B. Mefloquine\n\nANSWER: B", "prompt_tokens": 204, "output_tokens": 12}
+{"id": "q295", "gold": "A", "step": "step1", "pred": "D", "response": "The question asks for the total volume of gas in the patient's airways and lungs that does **not** participate in gas exchange. This volume includes the **dead space** and the **residual volume (RV)**.\n\n### Step-by-step breakdown:\n\n- **Dead space** is the volume of air that enters the respiratory tract but does not reach the alveoli for gas exchange. It includes:\n  - **Anatomical dead space**: the volume of the upper airway and conducting airways.\n    - Given: Upper airway volume = 100 mL\n    - Conducting airway volume = 125 mL\n    - Total anatomical dead space = 100 + 125 = **225 mL**\n  - **Physiological dead space**: the volume of air that reaches the alveoli but does not participate in gas exchange. This can be calculated using the **alveolar-arterial CO\u2082 gradient** and the **CO\u2082 pressures**.\n\n    The formula for physiological dead space (Vd) is:\n    $$\n    Vd = \\frac{PaCO_2 - PeCO_2}{PaCO_2} \\times VT\n    $$\n    However, since the tidal volume (VT) is not given, we can use the **alveolar ventilation (VA)** formula:\n    $$\n    VA = (Vt - Vd) \\times f\n    $$\n    But again, without tidal volume or respiratory rate, we can use the **dead space to tidal volume ratio** (Vd/Vt) from the CO\u2082 pressures.\n\n    The **dead space fraction (Vd/Vt)** can be estimated using:\n    $$\n    \\frac{Vd}{Vt} = \\frac{PaCO_2 - PeCO_2}{PaCO_2}\n    $$\n    Substituting the values:\n    $$\n    \\frac{Vd}{Vt} = \\frac{50 - 20}{50} = \\frac{30}{50} = 0.6\n    $$\n    So, **Vd = 0.6 \u00d7 Vt**.\n\n    However, without Vt, we can't calculate the exact Vd. But in the absence of Vt, we can assume that the **physiological dead space is approximately equal to the anatomical dead space** in this case, or that the question is referring to **anatomical dead space only**.\n\n- **Residual volume (RV)** is the volume of air remaining in the lungs after maximal exhalation. This air does not participate in gas exchange. Given: **RV = 1,000 mL**\n\n- **Total volume not participating in gas exchange** = **Anatomical dead space + Residual volume**\n  - Anatomical dead space = 225 mL\n  - Residual volume = 1,000 mL\n  - Total = 225 + 1,000 = **1,225 mL**\n\nThe closest option is:\n\n**D. 1200 mL**\n\nANSWER: D", "prompt_tokens": 344, "output_tokens": 658}
+{"id": "q296", "gold": "B", "step": "step2&3", "pred": "B", "response": "B. Simvastatin\n\nANSWER: B", "prompt_tokens": 207, "output_tokens": 12}
+{"id": "q297", "gold": "C", "step": "step1", "pred": "D", "response": "D. Hydrochlorthiazide\n\nANSWER: D", "prompt_tokens": 232, "output_tokens": 13}
+{"id": "q298", "gold": "D", "step": "step2&3", "pred": "D", "response": "D\n\nANSWER: D", "prompt_tokens": 275, "output_tokens": 7}
+{"id": "q299", "gold": "C", "step": "step1", "pred": "C", "response": "C\n\nANSWER: C", "prompt_tokens": 261, "output_tokens": 7}
